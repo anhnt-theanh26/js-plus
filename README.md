@@ -1,1 +1,8 @@
 # js-plus
+json-server
+  <!-- xem dữ liệu lấy link dữ liệu -->http://localhost:3000/products
+B3: chạy json-server
+- bật terminal
+- chạy câu lệnh json-server --watch db.json
+- nếu trong trường hợp chạy câu lệnh trên báo lỗi thì chạy câu lệnh bên dưới trước rồi chạy lại câu trên 
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
