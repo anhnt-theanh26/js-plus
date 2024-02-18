@@ -4,12 +4,13 @@
             "name": "1",
             "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
             "price": "1",
+            "cate": "1",
             "id": "d83d"
         }
     ],
     "users": [
         {
-            "id": "3",
+            "id": "1",
             "username": "anhnt",
             "password": "123"
         }
