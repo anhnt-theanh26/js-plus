@@ -1,6 +1,7 @@
 # js-plus
 json-server
   <!-- xem dữ liệu lấy link dữ liệu -->http://localhost:3000/products
+B2: cai json :npm install json-server
 B3: chạy json-server
 - bật terminal
 - chạy câu lệnh json-server --watch db.json

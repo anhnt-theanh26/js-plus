@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "name": "121231",
+            "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
+            "price": "121312",
+            "id": "b742",
+            "cate": "quan"
+        },
+        {
+            "name": "1113141",
+            "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
+            "price": "1131411",
+            "id": "d260",
+            "cate": "quan"
+        },
+        {
+            "id": "43d4",
+            "name": "anhnt12345678",
+            "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
+            "price": "1234567",
+            "cate": "quan"
+        },
+        {
+            "id": "f097",
+            "name": "anhnt",
+            "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
+            "price": "123",
+            "cate": "quan"
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "username": "anhnt",
+            "password": "123"
+        }
+    ]
+}
