@@ -1,43 +1,16 @@
 {
   "products": [
     {
-      "name": "121231",
+      "id": "1",
+      "name": "anhntph43180@fpt.edu12341243125245.vn",
       "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
-      "price": "121312",
-      "id": "b742"
-    },
-    {
-      "name": "1113141",
-      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
-      "price": "1131411",
-      "id": "d260"
-    },
-    {
-      "id": "43d4",
-      "name": "anhnt12345678",
-      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
-      "price": "1234567"
-    },
-    {
-      "id": "f097",
-      "name": "anhnt",
-      "image": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/d/v/dvfdgty_5_.jpg",
-      "price": "123"
+      "price": "1231431",
+      "cate": "áo"
     }
   ],
   "users": [
     {
       "id": "1",
-      "username": "admin",
-      "password": "123456"
-    },
-    {
-      "id": "2",
-      "username": "user",
-      "password": "123456"
-    },
-    {
-      "id": "3",
       "username": "anhnt",
       "password": "123"
     }
