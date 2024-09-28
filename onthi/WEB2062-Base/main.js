@@ -36,6 +36,7 @@
 // };
 // // showPro();
 
+
 const prd = document.querySelector('#prd');
 const showPro = () => {
     fetch("http://localhost:3000/products")

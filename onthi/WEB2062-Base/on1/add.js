@@ -46,3 +46,4 @@ form.addEventListener('submit', e => {
         thongbao.innerHTML = check;
     }
 })
+

@@ -8,13 +8,13 @@ const pricePrd = document.querySelector('#price');
 const catePrd = document.querySelector('#cate');
 
 fetch('http://localhost:3000/products/' + id)
-.then(data=>data.json())
-.then(data=>{
-    namePrd.value = data.name,
-    imagePrd.value = data.image,
-    pricePrd.value = data.price,
-    catePrd.value = data.cate
-})
+    .then(data => data.json())
+    .then(data => {
+        namePrd.value = data.name,
+            imagePrd.value = data.image,
+            pricePrd.value = data.price,
+            catePrd.value = data.cate
+    })
 form.addEventListener('submit', e => {
     e.preventDefault();
     let check = '';

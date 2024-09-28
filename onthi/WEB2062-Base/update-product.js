@@ -15,6 +15,7 @@ fetch("http://localhost:3000/products/" + id)
             prdPrice.value = data.price
     });
 
+    
 formUpdate.addEventListener('submit', (e) => {
     e.preventDefault();
     let check = '';
